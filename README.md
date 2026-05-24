@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetheart-of-the-south/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sweetheart of the South](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetheart-of-the-south/) |
+| **Get License** | [Secure Licensing Rights for Sweetheart of the South](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetheart-of-the-south/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9cf4e016bac02ac3dedae9183a1f71c46d3dbee232de64dcbb1ec1b688f5d4fe` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

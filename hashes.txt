@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sweetheart of the South
+
+This log tracks the cryptographic history and versioning for the song **Sweetheart of the South** (sweetheart-of-the-south).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T06:36:20.979003 | `v1` | `9cf4e016bac02ac3dedae9183a1f71c46d3dbee232de64dcbb1ec1b688f5d4fe` | `ae74360a36abba7e2c25b0911d3f33512e66d36291f52b465ebdbdd51ac7859b` | `2026-05-24_sweetheart-of-the-south-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
