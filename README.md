@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweetheart-of-the-south/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sweetheart of the South](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetheart-of-the-south/) |
+| **Get License** | [Get License For Sweetheart of the South](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweetheart-of-the-south/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Well, the midnight wind is blowing through the pines,
+> But the only thing I'm feeling is your hand in mine.
+> Yeah, the porch light's burning with a yellow glow,
+> Pulling you closer, taking it slow.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
